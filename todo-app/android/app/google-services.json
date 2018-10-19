@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "795709254723",
+    "project_id": "hasura-test"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795709254723:android:acbe807d050a6cc1",
+        "android_client_info": {
+          "package_name": "com.vanilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795709254723-h7tu394dhev154sqd2tabsr2osc8uaeb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vanilla",
+            "certificate_hash": "683e8d23579d7a6faf06065b9f005247b3c0a5a9"
+          }
+        },
+        {
+          "client_id": "795709254723-ikpo5dfk6um49kme8sshabu1175f4e6h.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "795709254723-o0b8895r5jqqqtlmdjkrrm0f8s63st5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCndnn41b79gMYRqnvhxtCBfjSF-DNjiV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
