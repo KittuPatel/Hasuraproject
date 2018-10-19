@@ -1,4 +1,4 @@
-const clusterName = "conversion36";
+const clusterName ="hasuraproject";
 const useHasuraApis = true;
 
 // modify the configuration below only if userHasuraApis = false
